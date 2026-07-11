@@ -1,0 +1,6 @@
+{
+  "name": "Lumina Studio Pro",
+  "description": "A high-end, professional creative studio suite for Android. Includes a desktop-grade Photo Editing Studio, multi-frame Video Production Slideshow Studio, interactive AI Creative Companion, and an array of sleek productivity tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
